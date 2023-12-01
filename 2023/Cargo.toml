@@ -1,0 +1,8 @@
+[package]
+name = "aoc2023"
+version = "0.1.0"
+authors = ["Victor Kropp <victor@kropp.name>"]
+
+[[bin]]
+name = "day01"
+path = "day01.rs"
