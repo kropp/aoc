@@ -6,3 +6,7 @@ authors = ["Victor Kropp <victor@kropp.name>"]
 [[bin]]
 name = "day01"
 path = "day01.rs"
+
+[[bin]]
+name = "day02"
+path = "day02.rs"
